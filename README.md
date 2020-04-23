@@ -1,19 +1,13 @@
-# ebook
+## Reader
+---
+基于`ePub`实现的web端的`电子书阅读器`。</br>
+**支持ePub格式**
 
-## Project setup
-```
-npm install
-```
+采用前后端分离架
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+`Vue 2.5 + Vue CLI 3.x`
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+###演示地址
+![Image text](./demo.png)
